@@ -1,0 +1,6 @@
+﻿  WithShieldOrOnShield.c
+D:\Lab\WithShieldOrOnShield\WithShieldOrOnShield.c(153,13): warning C4098: AddingTree: функция типа "void", возвращающая значение
+D:\Lab\WithShieldOrOnShield\WithShieldOrOnShield.c(117,18): warning C4101: ptr: неиспользованная локальная переменная
+D:\Lab\WithShieldOrOnShield\WithShieldOrOnShield.c(169,13): warning C4098: ShowingTree: функция типа "void", возвращающая значение
+D:\Lab\WithShieldOrOnShield\WithShieldOrOnShield.c(177,9): warning C4101: input: неиспользованная локальная переменная
+  WithShieldOrOnShield.vcxproj -> D:\Lab\WithShieldOrOnShield\x64\Debug\WithShieldOrOnShield.exe

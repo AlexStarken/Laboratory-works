@@ -1,0 +1,7 @@
+﻿  BackInBlack.c++
+D:\Programming\BackInBlack\BackInBlack\BackInBlack.c++(149,3): error C2360: пропуск инициализации "proksi" из-за метки "case"
+D:\Programming\BackInBlack\BackInBlack\BackInBlack.c++(128,12): message : см. объявление "proksi"
+D:\Programming\BackInBlack\BackInBlack\BackInBlack.c++(152,3): error C2360: пропуск инициализации "proksi" из-за метки "case"
+D:\Programming\BackInBlack\BackInBlack\BackInBlack.c++(128,12): message : см. объявление "proksi"
+D:\Programming\BackInBlack\BackInBlack\BackInBlack.c++(155,3): error C2360: пропуск инициализации "proksi" из-за метки "case"
+D:\Programming\BackInBlack\BackInBlack\BackInBlack.c++(128,12): message : см. объявление "proksi"
